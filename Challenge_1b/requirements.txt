@@ -1,0 +1,24 @@
+# Core
+python-dotenv
+tqdm
+numpy<2.0
+scikit-learn
+
+# PDF parsing (from Challenge 1A reuse)
+pdfminer.six
+PyMuPDF
+
+# Sentence Transformer (for similarity + summarization)
+sentence-transformers==2.2.2
+transformers==4.30.2
+torch==2.0.0
+torchvision==0.15.1
+torchaudio==2.0.1
+tokenizers==0.13.3
+huggingface_hub==0.16.4
+
+# Summarization
+sumy
+
+# Optional utilities
+nltk

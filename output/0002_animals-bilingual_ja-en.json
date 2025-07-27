@@ -1,0 +1,159 @@
+{
+  "title": "Look at the animals",
+  "document_languages": [
+    "EN",
+    "JA"
+  ],
+  "language_distribution": {
+    "JA": 10,
+    "EN": 19,
+    "UNKNOWN": 8
+  },
+  "outline": [
+    {
+      "level": "H1",
+      "text": "動物たちを⾒てごらん",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Look at the animals",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Jenny Katz",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Sandy Campbell",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Tamami Y",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "⽇本語 ja   / English   en",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "動物たちを⾒てごらん",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Look at the animals.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "うしが「モー」とないている",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "The cow says, “Moo.”",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "やぎが「メー、メー」とないている",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "The goat says, “Meh, meh.”",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "うまが「ヒヒーン」とないている",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "The horse says, “Neigh.”",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "ぶたが「ブーブー」とないている",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "The pig says, “Grunt.”",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "にわとりが「コッコッ」とないている",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "The chicken says, “Cluck.”",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "いぬが「ワン」とほえている",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "The dog says, “Woof.”",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "農夫が「しーっ！」と⾔っている",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "The farmer says, “Shhh!”",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Global Storybooks",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "globalstorybooks.net",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "動物たちを⾒てごらん",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Look at the animals",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Jenny Katz",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Sandy Campbell",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Tamami Y (ja)",
+      "page": 10
+    }
+  ]
+}

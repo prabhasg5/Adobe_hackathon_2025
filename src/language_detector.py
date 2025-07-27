@@ -1,7 +1,11 @@
 from lingua import Language, LanguageDetectorBuilder
 
 def detect_languages(lines):
-    detector = LanguageDetectorBuilder.from_all_languages().with_low_accuracy_mode().build()
+    Languages = [
+        Language.ENGLISH,
+        Language.FRENCH,
+        Language.JAPANESE]
+    detector = LanguageDetectorBuilder.from_languages(*Languages).build()
     lang_map = {}
     for i, line in enumerate(lines):
         text = line["text"]

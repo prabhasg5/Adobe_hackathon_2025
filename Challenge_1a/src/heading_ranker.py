@@ -1,8 +1,5 @@
 import re
 from collections import defaultdict
-
-# Removed SentenceTransformer and KMeans imports since they're not used in current logic
-
 def clean_text(text):
     """Simple text cleaning"""
     text = text.strip()

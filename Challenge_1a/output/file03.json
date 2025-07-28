@@ -5,7 +5,7 @@
     "FR"
   ],
   "language_distribution": {
-    "EN": 188,
+    "EN": 168,
     "FR": 1
   },
   "outline": [
@@ -117,11 +117,6 @@
     {
       "level": "H3",
       "text": "Guidance and Advice:",
-      "page": 5
-    },
-    {
-      "level": "H3",
-      "text": "Training:",
       "page": 5
     },
     {
@@ -301,16 +296,6 @@
     },
     {
       "level": "H3",
-      "text": "Funding Source 2007 2017",
-      "page": 10
-    },
-    {
-      "level": "H3",
-      "text": "TOTAL ANNUAL $50M $75M",
-      "page": 10
-    },
-    {
-      "level": "H3",
       "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003 10 10 10 10",
       "page": 10
     },
@@ -341,27 +326,12 @@
     },
     {
       "level": "H3",
-      "text": "3.2 Universities:",
+      "text": "- Ontario Council of University Libraries (OCUL) ( OCUL to name ) 3.3 Colleges:",
       "page": 11
     },
     {
       "level": "H3",
-      "text": "- Ontario Council of University Libraries (OCUL) ( OCUL to name )",
-      "page": 11
-    },
-    {
-      "level": "H3",
-      "text": "3.3 Colleges:",
-      "page": 11
-    },
-    {
-      "level": "H3",
-      "text": "- Bibliocentre, and Heads of Libraries and Learning Resources (UAG and HLLR  to name )",
-      "page": 11
-    },
-    {
-      "level": "H3",
-      "text": "3.4 Public libraries:",
+      "text": "- Bibliocentre, and Heads of Libraries and Learning Resources (UAG and HLLR  to name ) 3.4 Public libraries:",
       "page": 11
     },
     {
@@ -382,36 +352,6 @@
     {
       "level": "H3",
       "text": "4.2 Desired characteristics for steering committee appointees include:",
-      "page": 12
-    },
-    {
-      "level": "H3",
-      "text": "• Strategic thinkers;",
-      "page": 12
-    },
-    {
-      "level": "H3",
-      "text": "• Committed to the concept of multi-sector partnerships;",
-      "page": 12
-    },
-    {
-      "level": "H3",
-      "text": "• Knowledgeable about digital libraries and resources;",
-      "page": 12
-    },
-    {
-      "level": "H3",
-      "text": "• Knowledgeable about government structures;",
-      "page": 12
-    },
-    {
-      "level": "H3",
-      "text": "• Respected by their communities; influential;",
-      "page": 12
-    },
-    {
-      "level": "H3",
-      "text": "• Able to take a consultative approach;",
       "page": 12
     },
     {
@@ -447,11 +387,6 @@
     {
       "level": "H3",
       "text": "9. Financial and Administrative Policies",
-      "page": 13
-    },
-    {
-      "level": "H3",
-      "text": "9.3 Conflict of Interest:",
       "page": 13
     },
     {
